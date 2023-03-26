@@ -1,5 +1,6 @@
 # Transverse Velocity-Field Measurement in Solar Images
 The project is to calculate the Transverse velocity field of the solar image and achieve accurate optical flow estimation by calculating the pixel displacement in the image. 
+![image](https://github.com/lygmsy123/transverse-velocity-field-measurement/blob/main/PWCNet-H.png)
 # This repository includes:
 pretrained model and source code of our paper
 # Requirements
