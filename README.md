@@ -1,5 +1,7 @@
 # Transverse Velocity-Field Measurement in Solar Images
 The project is to calculate the Transverse velocity field of the solar image and achieve accurate optical flow estimation by calculating the pixel displacement in the image. 
+Zhen-Hong Shang, Si-Yu Mu, Kai-Fan Ji and Zhen-Ping Qiang
+Paper:(https://doi.org/10.1088/1674-4527/accbaf)
 ![image](https://github.com/lygmsy123/transverse-velocity-field-measurement/blob/main/PWCNet-H.png)
 # This repository includes:
 pretrained model and source code of our paper
